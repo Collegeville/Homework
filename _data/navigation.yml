@@ -1,0 +1,23 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: "Homework & Assignment"
+  url: "/Assignments/"
+  side: left
+
+- title: "Submit Instruction"
+  url: "/HowtoUse/"
+  side: left
+
+- title: "Answer"
+  url: "/AnswerCollection/"
+  side: left
+
+- title: "Useful Resources"
+  url: "/Resources/"
+  side: left
+
+- title: "Search"
+  url: "/search/"
+  side: right
