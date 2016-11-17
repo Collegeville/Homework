@@ -2,9 +2,6 @@
 				<h3 id="comments" class="t60">{{ site.data.language.comments_headline }}</h3>
 			
 			    <div id="disqus_thread"></div>
-			    <p align="center">
-			      You can review our commenting policy <a href="{{site.baseurl}}/commenting/">here</a>.
-			    </p>
 			    <script type="text/javascript">
 			        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
 			        var disqus_shortname = '{{ site.disqus_shortname }}'; 
