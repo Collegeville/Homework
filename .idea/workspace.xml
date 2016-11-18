@@ -2,14 +2,692 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c35073dc-80c5-4a3a-beb6-83072afdb599" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/orgs/bids.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/orgs/caltech.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/orgs/compute-canada.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/orgs/continuum.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/orgs/cyverse.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/orgs/elixir-uk.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/orgs/enthought.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/orgs/github.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/orgs/indiana-u.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/orgs/insight-data-science.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/orgs/intel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/orgs/jackson-lab.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/orgs/jpmorgan.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/orgs/kaust.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/orgs/lanl.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/orgs/lbl.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/orgs/leeds.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/orgs/mathworks.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/orgs/michigan-state.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/orgs/michigan.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/orgs/microsoft.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/orgs/mitacs.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/orgs/mozilla.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/orgs/msl.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/orgs/nesi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/orgs/nlesc.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/orgs/numfocus.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/orgs/psf.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/orgs/qmul.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/orgs/rackspace.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/orgs/rstudio.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/orgs/scimatic.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/orgs/scinet.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/orgs/sharcnet.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/orgs/sloan.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/orgs/ssi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/orgs/uc-davis.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/orgs/ucar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/orgs/ucl.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/orgs/ucsd.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/orgs/ufl.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/orgs/ukmo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/orgs/umelbourne.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/orgs/umiami.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/orgs/utoronto.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/orgs/uw-escience.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/adams_james.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/adelman_joshua.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/ahmadia_a.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/ahmed_arfan.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/aiello-lammens_matthew.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/ainsley_joshua.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/aldazabal_inigo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/alexander_harriet.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/alleen-willems_russell.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/allen_james.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/alonzi_pete.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/alsheikh-hussain_areej.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/anderson_c.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/andrew_carrie.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/anghel_catalina.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/ankenbrand_markus.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/antonioletti_mario.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/aranda_j.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/aruliah_d.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/avestruz_camille.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/badalamenti_jon.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/bae_sung.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/bahlai_christie.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/bajcz_alex.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/ballinger_thomas.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/baltzell_asher.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/banaszkiewicz_piotr.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/barmby_pauline.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/barneche_diego.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/barr_ewan.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/bast_radovan.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/batut_berenice.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/bauer_dana.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/bayer_p.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/beagrie_robert.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/beitey_david.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/bekolay_trevor.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/belcaid_mahdi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/belikov_evgenij.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/bell_jason.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/bennett_n.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/berghold_jared.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/bergman_casey.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/berry_michelle.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/blakk_lukas.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/blischak_j.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/boettiger_carl.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/boissonneault_maxime.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/bond_s.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/bonnie_jessica.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/bonsma_madeleine.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/boocock_james.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/bostroem_a.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/boughton_andrew.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/bouquin_daina.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/bowman_ross.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/boyle_amy.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/bray_e.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/brin_lindsay.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/broman_karl.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/brown_amy.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/brown_ct.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/brown_kyler.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/brunson_dana.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/bryan_j.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/brym_zachary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/burns_s.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/cabunoc_abigail.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/calhoun_patrick.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/camins-esakov_jared.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/canino-koning_r.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/cannam_c.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/capes_gerard.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/caporaso_greg.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/card_daren.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/carr_lindsay.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/cartwright_reed.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/cerino_t.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/chamberlain_s.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/chan_cliburn.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/charbonneau_amanda.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/chase_john.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/chatzidimitriou_kyriakos.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/chen_daniel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/chisholm_chelsea.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/choi_jin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/cholia_s.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/christensen_erica.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/christensen_garret.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/chuang-howe_a.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/chue-hong_n.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/chung_kally.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/chung_kathy.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/clare_richard.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/clayton_sarah.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/clayton_sophie.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/cmero_marek.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/code_w.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/coelho_luis.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/collings_ruth.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/collins_arliss.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/collins_matthew.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/colonna_vincenza.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/cordero_victor.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/corless_john.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/corvellec_marianne.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/coudrat_thomas.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/cox_grace.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/cox_logan.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/cozzini_s.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/cranston_k.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/crouch_nicholas.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/crouch_s.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/croucher_mike.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/crusoe_michael.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/daigle_remi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/dale_ryan.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/dashnow_harriet.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/davenport_e.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/davey_rob.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/davis_m.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/davis_neal.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/debo_christof.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/demichelis_raffaella.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/dennis_tim.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/derrick_james.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/desjardins_james.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/devenyi_gabriel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/devisetty_upendra-kumar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/devlin_catherine.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/diaz-gil_andres.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/dickenson_matt.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/dickson_r.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/didion_john.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/diong_joanna.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/doehle_phillip.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/dolson_emily.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/dotson_david.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/doyle_kimberly.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/droop_alastair.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/duchesne_laurent.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/duckles_jonah.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/duffy_meghan.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/duncan_susan.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/earl_stevan.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/eddelbuettel_dirk.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/ely_j.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/emonet_remi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/erlich_aaron.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/etxaniz_oier.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/evans_andy.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/eyers_david.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/faghirhagh_varda.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/falster_daniel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/farsarakis_emmanouil.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/fauber_bennet.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/fei_xu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/ferguson_angus.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/fernandes_filipe.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/fernandez-valverde_selene.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/ferreira-bocca_felipe.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/figueira_l.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/fishman_dmytro.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/fitzjohn_rich.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/flaxman_abraham.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/fonnesbeck_chris.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/fontenelle_hugues.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/ford_jes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/ford_talitha.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/forstner_konrad.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/fournier_auriel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/fowler_philip.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/friedline_chris.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/fu_zhuo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/fucile_geoffrey.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/furstenau_tara.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/gacenga_francis.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/gallinger_jessica.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/gan_emilia.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/garcia-algarra_javier.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/garcia-gutierrez_leonor.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/garcia_julian.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/gardner_paul.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/garoutte_aaron.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/gates_chris.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/gatto_laurent.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/ge_baolai.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/geiger_stuart.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/geldenhuis_andre.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/ghaffari_noushin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/gibling_heather.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/gibson_molly.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/goble_c.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/gogoglou_antonia.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/gonzalez_ivan.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/gorman_gerard.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/graham_laura.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/grande_bruno.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/gray_jeremy.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/gross_jonathan.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/guignard_thomas.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/gustavsen_j.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/guy_t.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/guyer_jonathan.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/guzman_melissa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/haddock_s.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/haine_denis.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/hames_sam.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/hamm_christopher.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/hamrick_jessica.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/hansen_m.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/harris_rayna.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/harrison_anthony.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/harstad_emelie.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/hart_t.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/hawke_ian.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/hayek_wolfgang.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/held_fabian.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/henderson_donna.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/henry_ian.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/heroux_martin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/herr_joshua.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/hertweck_kate.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/hetherington_james.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/hiebert_james.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/hinchliff_cody.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/hinsen_k.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/hjelm_johan.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/ho_xavier.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/hocking_daniel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/hodge_amy.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/hodges_toby.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/hojjati_alireza.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/holdgraf_c.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/hollister_jeff.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/hoyt_peter.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/huang_daisie.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/huff_k.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/imamoglu_fatma.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/irving_d.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/ismiraldi_yuandra.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/ivanov_p.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/jackson_m.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/jacobs_christian.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/james_nick.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/jarecka_dorota.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/jedrzejewski-szmek_zbigniew.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/johnson_ben.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/johnston_luke.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/johnston_myfanwy.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/jones_dm.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/jones_martin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/joyce_blake.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/kajic_ivana.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/kazmi_saira.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/kelly_tom.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/kerr_j.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/ketcheson_david.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/khetani_radhika.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/kim_jan.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/king_wt.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/kintsakis_athanassios.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/kiral-kornek_isabell.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/kitzes_j.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/klerke_sigrid.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/knuth_shelley.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/koch_christina.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/koenig_steven.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/koeppel_alexander.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/konrad_b.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/koontz_michael.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/kozlov_igor.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/kumar_avishek.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/kuzak_mateusz.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/kwakwa_kwasi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/labou_stephanie.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/lafleur_olivier.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/laforest-lapointe_isabelle.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/lagesen_k.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/lake_sherry.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/laken_benjamin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/lant_jeremiah.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/lasher_c.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/latornell_d.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/laufersweiler_mark.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/lebauer_david.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/lee_kate.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/lee_kwangchun.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/lee_luke.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/leeman_john.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/lehtomaki_joona.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/leng_joanna.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/levernier_jacob.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/leyder_jean-christophe.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/li_peter.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/liberton_denise.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/lightman_matthew.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/lijnzaad_philip.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/lin_johnny.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/liu_gang.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/lonsdale_andrew.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/lotterhos_kathleen.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/love_rebecca.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/lowe_elijah.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/lowndes_julia.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/luo_yuxi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/ma_eric.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/macdonell_cam.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/macindoe_gary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/maclean_dan.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/madin_j.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/madison_cindee.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/magle_tobin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/manhaes-savio_alexandre.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/mansour_tamer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/marconi_sergio.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/maree_naudene.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/marek_diana.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/marini_camille.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/martinez_paula.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/marwaha_kunal.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/marwick_ben.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/masakuna_jordan.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/mashchenko_sergey.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/masoud-ansari_sina.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/may_ryan.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/mayer_fernando.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/mcclatchy_sue.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/mcclung_bill.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/mcdonald_daniel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/mcgough_s.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/mcgoveran_catherine.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/mckay_sheldon.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/mckellar_j.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/mckinley_maria.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/mclean_cameron.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/mctavish_ej.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/medrela_krzysztof.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/meister_sarah.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/menegon_stefano.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/metz_jeremy.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/michael_lauren.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/michnowicz_s.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/michonneau_francois.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/mickley_james.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/middleton_ryan.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/miles_brian.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/milhans_jackie.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/mills_b.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/miotto_amanda.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/mistry_meeta.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/mitchell_i.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/mohr_christian-wilhelm.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/mokhtarzadeh_hamid.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/moore_jason.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/moore_timothy.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/morris_b.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/mudrak_erika.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/mueller_andreas.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/mueller_markus.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/munk_madicken.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/munoz_ian.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/murtaza_ghulam.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/nagraj_vp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/nahum_josh.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/nakhoul_hani.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/namburi_sandeep.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/nandez_jose.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/navarro_francisco.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/nederbragt_l.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/neeb_moritz.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/nenadic_aleksandra.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/neufeld_ryan.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/nielsen_daiva.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/nielsen_jens.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/nilsson_matthias.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/norris_timothy.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/nunez-iglesias_juan.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/ocais_alan.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/odell_allison-jai.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/ogrady_tina.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/oleary_aaron.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/oliver_jeffrey.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/olson_r.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/olsson_catherine.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/orendt_anita.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/orr_adam.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/ory_j.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/otsuji_reid.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/palamartchouk_kirill.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/palm_francisco.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/paulo_martin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/pawlik_a.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/pearson_john.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/peek_ryan.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/pell_j.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/perez-suarez_david.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/perez_f.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/perignon_mariela.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/perrett_heidi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/perry_adam.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/peru_giacomo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/petre_m.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/pfenninger_s.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/pinska_adrianna.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/pipitone_j.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/pitchers_w.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/plumbley_m.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/pollard_tom.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/pomorski_pawel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/preeyanon_likit.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/pritchard_leighton.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/profiti_giuseppe.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/provencher_francoise.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/psomopoulos_fotis.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/pue_s.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/ram_k.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/ramalingam_saravanan.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/ramos-musalem_ana-karina.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/ranjard_louis.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/rawat_rohit.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/razoumov_alex.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/read_emily.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/rice_timothy.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/richie-halford_adam.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/riemer_kristina.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/riley_janet.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/rio_david.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/ritchie_scott.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/roberts_leah.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/robinson_james.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/robinson_natalie.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/robinson_rosario.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/rohl_andrew.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/rokem_a.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/rosenfield_phil.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/rosner_jamie.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/ross_noam.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/rowell_bill.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/rugis_john.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/russo_dan.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/ruttley_m.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/sadjadi_seyed-mahdi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/sampath_ramesh.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/sanders_shane.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/sane_maneesha.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/sarahan_michael.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/schilling_martin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/schloss_pat.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/schmeier_sebastian.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/schmidt_marian.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/schneider_juliane.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/schoenrock_andrew.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/schossau_j.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/schwartz_rachel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/scopatz_a.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/selik_m.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/senyondo_henry.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/serra_neem.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/shambaugh_brent.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/sharan_malvika.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/shelton_j.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/shelton_jennifer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/sheneman_leigh.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/sherman_jason.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/shih_yu-ching.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/shiklomanov_alexey.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/shkurti_ardita.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/silva_raniere.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/simpkin_sarah.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/simpson_jack.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/simpson_john.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/slaybaugh_rachel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/sloggett_clare.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/small_luc.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/smith_allison.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/smith_byron.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/smith_daniel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/smith_j.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/smithyman_brendan.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/smorul_mike.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/soares-siqueira_abel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/soderberg_courtney.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/soontiens_nancy.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/speer_donald.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/srinath_ashwin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/srinivasan_karthik.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/st-onge_pier-luc.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/stachelek_joseph.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/stacy_mark.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/stafford_jeff.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/standage_daniel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/staneva_valentina.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/stanton-cook_mitchell.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/stapleton_jim.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/staton_margaret.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/steinbach_peter.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/stevens_sarah.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/stillwell_mark.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/stimberg_marcel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/strootman_jonathan.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/stubbs_daniel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/stueker_oliver.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/sumner_mike.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/sundaram_arvind.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/supp_s.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/svaksha.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/swaminathan_gayathri.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/taber-thomas_bradley.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/tarkowski_leszek.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/tarvin_becca.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/tatman_rachael.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/taylor_cody.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/teague_brian.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/teal_t.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/telenczuk_bartosz.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/telenczuk_maria.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/terman_rochelle.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/teucher_andrew.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/thoele_florian.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/thomas_adam.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/thomson_samuel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/thrimawithana_amali.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/till_robert.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/timbers_tiffany.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/tomlinson_christopher.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/tomsett_richard.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/tran_lina.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/trimble_will.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/troendle_tim.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/turek_daniel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/turner_s.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/tweedie_fiona.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/ugalde_juan.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/ushizima_daniela.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/vahtras_olav.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/vaidyanathan_ramnath.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/valls-guimera_roman.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/van-der-helm_edwin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/van-der-walt_anelda.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/van-heusden_peter.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/van-rossum_thea.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/van-schyndel_jay.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/van-tuyl_steve.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/vandervalk_steven.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/vanichkina_darya.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/varga_vicky.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/vargas_horacio.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/varoquaux_n.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/vera_b.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/via_allegra.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/viana_a.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/vilbig_kevin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/von-bieberstein_philipp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/vonderlinden_jens.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/wake_leanne.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/walker_andrew.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/walker_dawn.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/wallis_mike.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/walsh_alistair.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/warren_dan.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/wasser_leah.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/waterfall_josh.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/waugh_b.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/weaver_belinda.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/weber_lukas.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/weinstein_ben.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/wheeler_daniel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/wheelhouse_mark.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/whitaker_melissa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/white_e.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/white_easton.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/whitefield_shawn.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/whitehead_tyson.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/whitlock_alexander.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/wijeratne_asela.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/wilber_mark.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/wilkerson_chandler.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/williams_jason.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/williams_l.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/williams_ryan.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/williamson_evan.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/williford_anna.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/willmore_frank.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/wilson_aidan.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/wilson_g.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/wilson_p.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/winston_donald.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/winton_jared.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/woo_kara.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/woods_c.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/wright_thomas.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/wu_steven.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/wyder_stefan.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/xiao_xiao.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/yang_fan.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/yang_hsi-kai.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/ye_isaac.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/young_lynn.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/zakkaroff_constantine.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/zhang_jingchao.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/zhang_qp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/zimmerman_naupaka.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/zito_t.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/people/zonca_andrea.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/projects/active-papers.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/projects/archer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/projects/astropy.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/projects/biostars.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/projects/cyclus.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/projects/ecodata-retriever.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/projects/eff-phys.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/projects/gap.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/projects/genomics-virtual-lab.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/projects/git-rdm.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/projects/ipfs.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/projects/iplant.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/projects/jors.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/projects/khmer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/projects/macroeco.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/projects/magetbrain.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/projects/mahotas.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/projects/math-education-resources.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/projects/mothur.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/projects/msl.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/projects/nipy.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/projects/open-tree-of-life.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/projects/pecan.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/projects/practical-computing-for-biologists.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/projects/pymc.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/projects/pyne.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/projects/pyrdm.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/projects/ropensci.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/projects/scikit-bio.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/projects/scikit-image.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/projects/sharelatex.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/projects/stat-545.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/projects/tec.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/language.yml" afterPath="$PROJECT_DIR$/_data/language.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/comments" afterPath="$PROJECT_DIR$/_includes/comments" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/AnswerCollection.html" afterPath="$PROJECT_DIR$/pages/AnswerCollection.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/Howto.html" afterPath="$PROJECT_DIR$/pages/Howto.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/HowtoUse.html" afterPath="$PROJECT_DIR$/pages/HowtoUse.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/Resources.html" afterPath="$PROJECT_DIR$/pages/Resources.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/Assignments.html" afterPath="$PROJECT_DIR$/pages/Assignments.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/index.html" afterPath="$PROJECT_DIR$/pages/index.html" />
     </list>
     <ignored path="Homework.iws" />
@@ -31,50 +709,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AnswerCollection.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/AnswerCollection.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.0">
-              <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="comments" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/comments">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="3" column="46" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="language.yml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_data/language.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.18292683">
-              <caret line="4" column="50" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="youtube" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/youtube">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
+            <state vertical-scroll-proportion="0.0">
               <caret line="8" column="115" selection-start-line="8" selection-start-column="115" selection-end-line="8" selection-end-column="115" />
               <folding />
             </state>
@@ -84,18 +722,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.7916665">
-              <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Resources.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/Resources.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.5">
-              <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="13" />
+            <state vertical-scroll-proportion="-10.0">
+              <caret line="19" column="81" selection-start-line="19" selection-start-column="81" selection-end-line="19" selection-end-column="81" />
               <folding />
             </state>
           </provider>
@@ -104,7 +732,7 @@
       <file leaf-file-name="HowtoUse.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/HowtoUse.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.125">
+            <state vertical-scroll-proportion="0.0">
               <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
               <folding />
             </state>
@@ -114,18 +742,18 @@
       <file leaf-file-name="Howto.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/Howto.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.2916665">
+            <state vertical-scroll-proportion="-4.375">
               <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Assignments.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Assignments.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pages/Assignments.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.0">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.36585367">
+              <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -151,15 +779,15 @@
         <option value="$PROJECT_DIR$/pages/Howtouse.html" />
         <option value="$PROJECT_DIR$/exercises/Exercise1.html" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/pages/Assignments.html" />
         <option value="$PROJECT_DIR$/pages/Resources.html" />
-        <option value="$PROJECT_DIR$/pages/index.html" />
         <option value="$PROJECT_DIR$/pages/HowtoUse.html" />
         <option value="$PROJECT_DIR$/pages/Howto.html" />
         <option value="$PROJECT_DIR$/pages/AnswerCollection.html" />
         <option value="$PROJECT_DIR$/_includes/comments" />
         <option value="$PROJECT_DIR$/_site/Assignments/exercises/Exercise1.html" />
         <option value="$PROJECT_DIR$/_data/language.yml" />
+        <option value="$PROJECT_DIR$/pages/index.html" />
+        <option value="$PROJECT_DIR$/pages/Assignments.html" />
       </list>
     </option>
   </component>
@@ -193,6 +821,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -226,13 +855,26 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Homework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Homework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_includes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Collegeville.github.io" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CS373Carpentry" />
     <property name="options.lastSelected" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
@@ -389,7 +1031,6 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847682" sideWeight="0.5081043" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980132" sideWeight="0.49753347" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980132" sideWeight="0.49753347" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -401,6 +1042,7 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980132" sideWeight="0.49753347" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -446,6 +1088,86 @@
     <entry file="file://$PROJECT_DIR$/pages/AnswerCollection.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/comments">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="46" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/language.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/youtube">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="115" selection-start-line="8" selection-start-column="115" selection-end-line="8" selection-end-column="115" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/Resources.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/HowtoUse.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/Howto.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/Assignments.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/AnswerCollection.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="22" column="83" selection-start-line="22" selection-start-column="83" selection-end-line="22" selection-end-column="83" />
           <folding />
         </state>
@@ -455,7 +1177,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -484,7 +1205,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -632,7 +1352,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.6666667">
           <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -644,23 +1363,14 @@
         <state split_layout="FIRST">
           <first_editor vertical-scroll-proportion="0.05050505">
             <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/HomeworkSubmission.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.75">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/Resources.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.5">
+        <state vertical-scroll-proportion="0.0">
           <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="13" />
           <folding />
         </state>
@@ -668,24 +1378,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/HowtoUse.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.125">
+        <state vertical-scroll-proportion="0.0">
           <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/Howto.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.2916665">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/Assignments.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.0">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -718,7 +1412,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3567073">
           <caret line="313" column="46" selection-start-line="313" selection-start-column="46" selection-end-line="313" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -730,18 +1423,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/index.html">
+    <entry file="file://$PROJECT_DIR$/_data/language.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.7916665">
-          <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
+        <state vertical-scroll-proportion="-2.5">
+          <caret line="4" column="50" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_data/language.yml">
+    <entry file="file://$PROJECT_DIR$/pages/HomeworkSubmission.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18292683">
-          <caret line="4" column="50" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
+        <state vertical-scroll-proportion="0.27439025">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/Howto.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.375">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.0">
+          <caret line="19" column="81" selection-start-line="19" selection-start-column="81" selection-end-line="19" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/Assignments.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36585367">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
           <folding />
         </state>
       </provider>
