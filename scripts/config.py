@@ -1,0 +1,5 @@
+USERNAME = 'duongdo27'
+TOKEN = '***'
+COURSE = 'CS373'
+TERM = 'Spring17'
+ORGANIZATION = 'duongdoOrg'
