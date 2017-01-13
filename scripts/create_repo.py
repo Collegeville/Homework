@@ -7,14 +7,16 @@ def read_users(filename):
         lines = f.readlines()
     users = []
     first_ls = lines[0].strip().split(',')
+    print first_ls
     username_index = first_ls.index("Username")
+
     for line in lines[1:]:
         users.append(line.split(',')[username_index].strip())
     return users
 
 
 def run():
-    users = read_users("users.csv")
+    users = read_users("CS373_Spring2017.csv")
     gh = Github(USERNAME, TOKEN)
     existing_repos = gh.get_organization_repos(ORGANIZATION)
     for user in users:
@@ -25,7 +27,7 @@ def run():
             if repo in existing_repos:
                 print "User {} already had repo.".format(user)
             else:
-                gh.create_organization_repo(ORGANIZATION, repo, "Sample description")
+                gh.create_organization_repo(ORGANIZATION, repo, "Sample description", private=True)
                 gh.add_collaborator(ORGANIZATION, repo, user, permission="push")
                 print "User {} has been added to repo".format(user)
 
