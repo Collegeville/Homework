@@ -35,7 +35,7 @@ description: "Collecting Assignments Project"
 author: duongdo
 
 # This URL identifies the domain.
-url: 'https://collegeville.github.io'
+url: 'https://collegeville.github.io/Homework'
 
 # This URL is the root of the site below the domain.
 baseurl: ''
@@ -128,7 +128,7 @@ defaults:
       show_meta: false		# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: true
-      author: gvwilson		# Default author for pages
+      author: dhdo		# Default author for pages
   -
     scope:
       path: ""
@@ -137,7 +137,7 @@ defaults:
       show_meta: true		# Show metadata for all posts
       # sidebar:		# Possible values › left, right › by default there will be no sidebar
       comments: true
-      author: gvwilson		# Default author for posts
+      author: dhdo		# Default author for posts
 
 #       _   __            _             __  _
 #      / | / /___ __   __(_)___ _____ _/ /_(_)___  ____
