@@ -35,10 +35,10 @@ description: "Collecting Assignments Project"
 author: duongdo
 
 # This URL identifies the domain.
-url: 'https://collegeville.github.io/Homework'
+url: 'https://collegeville.github.io'
 
 # This URL is the root of the site below the domain.
-baseurl: ''
+baseurl: '/Homework'
 
 # This URL is the root of files below the domain.
 filesurl: '/files'
